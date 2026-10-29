@@ -5,6 +5,8 @@ This repository contains a curated collection of academic coursework and applied
 ---
 
 ## Repository Structure
+
+```text
 MastersSchoolProjects/
 ├── LinearAndNonlinearModelsProjects/
 │   └── LinearRegressionAssignment2-DiabetesAnalysis/
@@ -36,7 +38,7 @@ MastersSchoolProjects/
 ├── MathematicsOfMachineLearningProjects/
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 1. Linear and Non-Linear Models
